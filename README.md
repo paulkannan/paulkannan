@@ -2,7 +2,7 @@
 - 👀 I’m interested in finding solutions for complex problems using IT
 - 🌱 I’m currently learning assorted technologies
 - 💞️ I’m looking to collaborate on DevOps/ Big Data
-- 📫 Reach me paulkannan.25@gmail.com
+- 📫 Reach me paulkannan.iaf@gmail.com
 
 <!---
 paulkannan/paulkannan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
